@@ -1,5 +1,5 @@
 body{
-  background-color:#f3f3f3;
+  background:#f3f3f3;
   color:#333;
   width:100%;
   font-family: sans-serif;
@@ -41,6 +41,7 @@ body{
     background-color:#4b88bb;
     display:block;
 }
+
 
 
 
