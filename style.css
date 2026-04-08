@@ -1,34 +1,38 @@
 body{
-  background:#f3f3f3;
-  color:#333;
-  width:100%;
-  font-family: sans-serif;
-  margin:0 auto;
+    background:#f3f3f3;
+    color:#333;
+    width:100%;
+    font-family: sans-serif;
+    margin:0 auto;
 }
 
 .header{
-     width: 90%;
-     margin: auto;
-     height:120px;
-     line-height:120px;
-     background:#417aa8;
-    color:#fff:
+    width: 90%;
+    margin: auto;
+    height:120px;
+    line-height:120px;
+    background:#417aa8;
+    color:#fff;
 }
+
 .jarak{
     padding:0 2pc;
 }
+
 .menu{
     background-color:#417aa8;
-    height:50px;
+    height:50px; 
     line-height:50px;
     position:relative;
     width:90%;
-    margin:0 auto;
+    margin:0 auto; 
     padding:0 auto;
 }
+
 .menu ul {
     list-style:none;
 }
+
 .menu ul li a {
     float: left;
     width:70px;
@@ -37,10 +41,12 @@ body{
     color:#FFF;
     text-decoration:none;
 }
+
 .menu ul li a:hover {
     background-color:#4b88bb;
     display:block;
 }
+
 .content{
     width:90%
     margin:auto;
@@ -49,13 +55,15 @@ body{
     background:#fff;
     color:#333;
 }
+
 .border{
-    border:2px solid #4887b9
+    border:2px solid #4887b9;
     margiin-top:1pc;
     padding-battom:1pc;
     padding-left:2pc;
     padding-right:2pc;
 }
+
 .kiri{
     width:70%
     float:left;
@@ -63,6 +71,7 @@ body{
     background:#fff;
     height:420px;
 }
+
 .kanan{
     width:30%;
     float:left;
@@ -70,6 +79,7 @@ body{
     background:#fff;
     height:420px;
 }
+
 .undecor{
     text-decoration:none;
 }
